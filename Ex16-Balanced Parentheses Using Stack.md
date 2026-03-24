@@ -1,5 +1,5 @@
 # Ex16 Check for Balanced Parentheses Using Stack
-## DATE: 26/09/25
+## DATE: 4.4.2026
 ## AIM:
 To write a Java program that verifies whether the parentheses (brackets) in an input string are balanced — meaning each opening bracket (, {, [ has a corresponding and correctly ordered closing bracket ), }, ].
 
@@ -20,8 +20,8 @@ To write a Java program that verifies whether the parentheses (brackets) in an i
 ```
 /*
 Program to verify whether the parentheses (brackets) in an input string are balanced
-Developed by: JESUBALAN A
-RegisterNumber:  212223240060
+Developed by: KARTHIK G
+RegisterNumber: 212223220043
 */
 
 import java.util.Scanner;
