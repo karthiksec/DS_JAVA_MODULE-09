@@ -1,5 +1,5 @@
 # Ex20 Sorting an Array using Merge Sort Algorithm
-## DATE: 10/10/25
+## DATE: 4.4.2026
 ## AIM:
 To design a program that sorts a given array of integers in ascending order without using built-in sorting functions, achieving O(n log n) time complexity and minimal space usage.
 ## Algorithm
@@ -18,8 +18,8 @@ To design a program that sorts a given array of integers in ascending order with
 ```
 /*
 Program tosorts a given array of integers in ascending order without using built-in sorting functions
-Developed by: JESUBALAN A
-RegisterNumber:  212223240060
+Developed by: KARTHIK G
+RegisterNumber: 212223220043
 */
 
 import java.util.*;
